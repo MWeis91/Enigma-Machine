@@ -1,9 +1,0 @@
-E:\Visual Studio Projects\EnigmaMachine\EnigmaMachine\bin\Debug\EnigmaMachine.exe.config
-E:\Visual Studio Projects\EnigmaMachine\EnigmaMachine\bin\Debug\EnigmaMachine.exe
-E:\Visual Studio Projects\EnigmaMachine\EnigmaMachine\bin\Debug\EnigmaMachine.pdb
-E:\Visual Studio Projects\EnigmaMachine\EnigmaMachine\obj\Debug\EnigmaMachine.Enigma.resources
-E:\Visual Studio Projects\EnigmaMachine\EnigmaMachine\obj\Debug\EnigmaMachine.Properties.Resources.resources
-E:\Visual Studio Projects\EnigmaMachine\EnigmaMachine\obj\Debug\EnigmaMachine.csproj.GenerateResource.Cache
-E:\Visual Studio Projects\EnigmaMachine\EnigmaMachine\obj\Debug\EnigmaMachine.exe
-E:\Visual Studio Projects\EnigmaMachine\EnigmaMachine\obj\Debug\EnigmaMachine.pdb
-E:\Visual Studio Projects\EnigmaMachine\EnigmaMachine\obj\Debug\EnigmaMachine.csprojResolveAssemblyReference.cache
